@@ -1,0 +1,24 @@
+// ArcGISGISServerAdvanced_ArcGISServer_1466405.prvc
+
+//Provision
+Provision ID=C8C0F21D-F17D-47A2-B25FD01B6FA07960
+Comment=Brian Case
+
+
+// User Information
+First Name=Brian
+Last Name=Case
+Organization=Bootcamp GIS
+Department=
+Email=bcase257@yahoo.com
+Address 1=6161 El Cajon Blvd
+City=San Diego
+State/Province=CA
+Location Code=US
+Location=US
+Zip/Postal Code=92115
+Phone Number=619-640-2330
+// Version=11.3
+
+// Features and authorization numbers
+ArcGIS Server=ECP214467627
